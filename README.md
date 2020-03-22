@@ -1,3 +1,3 @@
 # mindyoga
 An android app that relaxes you when you are filled with anger.
-![Demo](https://i.imgur.com/Bs09ACP.mp4)
+![Demo](ezgif.com-video-to-gif.gif)
